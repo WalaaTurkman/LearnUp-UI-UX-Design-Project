@@ -31,8 +31,10 @@ UI/UX Designer
 
 
 ### Latest Courses Page
-![Latest Courses](<img width="648" height="459" alt="image" src="https://github.com/user-attachments/assets/90d050f2-a43d-403c-baea-278735321fc2" />)
-![Latest Courses](<img width="164" height="364" alt="image" src="https://github.com/user-attachments/assets/11f14424-280c-4341-8337-e318493f5d56" />)
+![Latest Courses](<img width="648" height="459" alt="image" src="https://github.com/user-attachments/assets/90d050f2-a43d-403c-baea-278735321fc2" />
+)
+![Latest Courses](<img width="164" height="364" alt="image" src="https://github.com/user-attachments/assets/11f14424-280c-4341-8337-e318493f5d56" />
+)
 ![Latest Courses](<img width="166" height="362" alt="image" src="https://github.com/user-attachments/assets/c012014e-84cd-4035-a721-01dab0f8d5b8" />
 )
 
@@ -40,7 +42,6 @@ UI/UX Designer
 ![My Enrolled Courses](<img width="648" height="461" alt="image" src="https://github.com/user-attachments/assets/4b78b6f6-3a62-4684-953a-870ceeaac32c" />
 )
 ![My Enrolled Courses](<img width="167" height="365" alt="image" src="https://github.com/user-attachments/assets/e2006d22-82df-4ade-a5a1-82c07efbcb1c" />
-
 )
 
 
